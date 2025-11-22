@@ -1,4 +1,4 @@
-# OBSTACLE-DETECTION-SYSTEM-USING-ULTRASONIC-SENSOR
+Exp 3 N.Sugandan 212222060260# OBSTACLE-DETECTION-SYSTEM-USING-ULTRASONIC-SENSOR
 
 ## Aim:
 To design and simulate a distance measurement system using an ultrasonic sensor HC-SR04 interfaced with an Arduino Uno board in Tinkercad.
