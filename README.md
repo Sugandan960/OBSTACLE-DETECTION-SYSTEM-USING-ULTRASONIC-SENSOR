@@ -125,7 +125,8 @@ void loop()
 
 ## Output:
  
-![Uploading image.png…]()
+<img width="1875" height="752" alt="image" src="https://github.com/user-attachments/assets/52b6632f-3c72-4c36-83a2-57ab257a4e10" />
+
 
 
 ## Result
