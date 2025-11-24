@@ -19,7 +19,8 @@ Tinkercad provides a simulation environment where this circuit can be virtually 
 
 
 ## Circuit Diagram:
- ![Uploading image.png…]()
+![Uploading image.png…]()
+
 
 ## Procedure: //Modify the procedure based on your circuit
 
