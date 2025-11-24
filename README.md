@@ -19,7 +19,7 @@ Tinkercad provides a simulation environment where this circuit can be virtually 
 
 
 ## Circuit Diagram:
-![Uploading image.png…]()
+<img width="1875" height="752" alt="image" src="https://github.com/user-attachments/assets/cd49ce97-088f-4c38-81ed-1e508662e2b7" />
 
 
 ## Procedure: //Modify the procedure based on your circuit
@@ -125,6 +125,7 @@ void loop()
 
 ## Output:
  
+![Uploading image.png…]()
 
 
 ## Result
